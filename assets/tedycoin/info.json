@@ -1,0 +1,16 @@
+{
+  "name": "TedyCoin",
+  "symbol": "TEDY",
+  "type": "BEP20",
+  "decimals": 18,
+  "address": "0x4483666DEd40Be19C5D67C1F81f3dD4B4D1ce998",
+  "description": "TedyCoin (TEDY) is the native token of the Tedy ecosystem, backing real-world services such as luxury hotels, digital payments, and future airline operations. TEDY aims to offer true utility beyond speculation by being used in Tedy-branded physical and digital services.",
+  "website": "https://tedycoin.com",
+  "email": "legal@tedycoin.com",
+  "social": {
+    "telegram": "https://t.me/TedyCoinOfficial",
+    "twitter": "https://twitter.com/tedycoin",
+    "discord": "https://discord.gg/PGrFtwUR6G",
+    "instagram": "https://instagram.com/tedycoin"
+  }
+}
